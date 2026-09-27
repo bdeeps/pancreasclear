@@ -1,0 +1,106 @@
+{
+  "slug": "pancreasclear",
+  "box": 38,
+  "date": "2026-10-18",
+  "title": "PancreasClear",
+  "question": "How does the pancreas work?",
+  "hook": "Behind your stomach sits a soft, 15 cm organ that does two jobs at once: it pours out a litre or more of digestive juice a day, and a million tiny islands inside it keep your blood sugar steady with insulin. Take it apart in 3D, watch a beta cell taste sugar, and see what goes wrong in diabetes.",
+  "thumbText": "HOW YOUR PANCREAS WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "pancreas",
+    "insulin",
+    "diabetes",
+    "blood sugar",
+    "islets of Langerhans",
+    "digestion",
+    "enzymes",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two organs in one",
+      "text": "The pancreas lies behind the stomach, about 15 cm long and 80 g, with its head in the C of the duodenum and its tail at the spleen. About 98% of it makes digestive juice; about a million islets of Langerhans, just 1 to 2% of it, make hormones such as insulin."
+    },
+    {
+      "title": "A juice factory with a safety lock",
+      "text": "Acinar cells make amylase, lipase and protein-cutting enzymes, about 1 to 1.5 litres of juice a day. Trypsin is made switched off and only switched on in the gut by enteropeptidase, so the pancreas does not digest itself. Duct cells add bicarbonate to neutralise stomach acid, on cue from the hormones secretin and CCK."
+    },
+    {
+      "title": "A cell that tastes sugar",
+      "text": "Beta cells burn glucose to make ATP. ATP shuts potassium channels, the cell's voltage rises, calcium rushes in, and insulin granules release. More sugar means more insulin. Alpha cells do the opposite job with glucagon."
+    },
+    {
+      "title": "A thermostat for blood sugar",
+      "text": "Insulin lets muscle and fat take in glucose and tells the liver to store it; glucagon tells the liver to release it. Together they keep blood glucose around 70 to 100 mg/dL before breakfast and usually below about 140 after meals, though the whole bloodstream holds only about a teaspoon of sugar."
+    },
+    {
+      "title": "When the thermostat breaks",
+      "text": "In type 1 diabetes the immune system destroys the beta cells. In type 2, the most common kind, cells resist insulin and beta cells slowly fall behind. HbA1c shows average glucose over about three months. About 589 million adults worldwide, and an estimated 101 million people in India, live with diabetes. Only doctors diagnose it."
+    },
+    {
+      "title": "Keeping it healthy",
+      "text": "Pancreatitis happens when enzymes switch on inside the gland, most often after gallstones or heavy alcohol use, and needs urgent care. Pancreatic cancer is hard to find early. Studies in the USA and India found that lifestyle programmes lowered the chance of type 2 in people with raised glucose. For your own health, talk to a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Exocrine and endocrine",
+      "def": "Exocrine glands send their product down ducts, like digestive juice; endocrine glands release hormones into the blood, like insulin."
+    },
+    {
+      "term": "Acinus",
+      "def": "A grape-like cluster of enzyme-making cells around a tiny central channel."
+    },
+    {
+      "term": "Zymogen",
+      "def": "An enzyme made switched off, such as trypsinogen, so it cannot do damage until it reaches the gut."
+    },
+    {
+      "term": "Secretin and CCK",
+      "def": "Hormones from the duodenum that tell the pancreas to send bicarbonate and enzymes when food arrives."
+    },
+    {
+      "term": "Islet of Langerhans",
+      "def": "A tiny cluster of hormone-making cells; about a million are scattered through the pancreas."
+    },
+    {
+      "term": "Insulin",
+      "def": "The hormone from beta cells that lets cells take in glucose and tells the liver to store it."
+    },
+    {
+      "term": "Glucagon",
+      "def": "The hormone from alpha cells that tells the liver to release glucose when blood sugar falls."
+    },
+    {
+      "term": "Insulin resistance",
+      "def": "When cells respond less to insulin, so more is needed to do the same job; central to type 2 diabetes."
+    },
+    {
+      "term": "HbA1c",
+      "def": "A blood test showing how much haemoglobin has glucose attached, a guide to average glucose over about three months."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "pancreasclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
